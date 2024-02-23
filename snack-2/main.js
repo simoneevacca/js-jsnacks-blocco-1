@@ -1,8 +1,6 @@
 const firstWord = prompt ('scrivi la prima parola');
 const secondWord = prompt ('scrivi la seconda parola');
 
-console.log(firstWord.length, secondWord.length);
-
 const firstWordLength = firstWord.length;
 const secondWordLength = secondWord.length;
 
